@@ -1,0 +1,27 @@
+{
+  "name": "belajar-npm",
+  "version": "1.0.0",
+  "description": "project untuk belajar npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hello":"echo \"Hello world!\"",
+    "server":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darichy3/belajar-npm.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "darichy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darichy3/belajar-npm/issues"
+  },
+  "homepage": "https://github.com/darichy3/belajar-npm#readme",
+  "dependencies": {
+    "moment": "^2.23.0"
+  }
+}
